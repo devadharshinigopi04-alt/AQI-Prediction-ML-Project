@@ -1,0 +1,21 @@
+PROJECT TITLE:
+Air Quality Index (AQI) Prediction and Pollution Level Classification Using Machine Learning
+
+OBJECTIVE:
+To estimate the AQI from air pollutant measurements and classify air quality into six pollution categories using machine-learning algorithms.
+
+INPUT PARAMETERS:
+PM2.5, PM10, NO2, SO2, CO and O3.
+
+OUTPUT:
+1. Predicted AQI value.
+2. Pollution category: Good, Satisfactory, Moderate, Poor, Very Poor or Severe.
+
+ALGORITHMS:
+Random Forest Regression and Random Forest Classification.
+
+SOFTWARE:
+Python, Pandas, NumPy, Scikit-learn, Joblib and Streamlit.
+
+NOTE:
+The included dataset is synthetic and intended only to demonstrate the complete program workflow. Use a verified real-world dataset for final academic evaluation.
